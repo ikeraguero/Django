@@ -1,8 +1,9 @@
 [tool.poetry]
-name = "livraria"
+name = "Livraria Conhecer"
 version = "0.1.0"
 description = ""
-authors = ["Iker <ikerpires407@gmail.com>"]
+authors = ["iker <ikerpires407@gmail.com>"]
+license = "GPL"
 
 [tool.poetry.dependencies]
 python = "^3.8"
